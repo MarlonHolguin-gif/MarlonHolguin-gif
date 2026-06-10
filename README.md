@@ -12,7 +12,7 @@
 
 
 <!--Intro start-->
-- Soy un Ingeniero Electrónico con profundización en Sistemas Embebidos, apasionado por la programación con conocimiento en Java, Spring Boot, Python, JavaFx, HTML, CSS, REACT, Angular, Javascript, TypeScript y SQL. Capaz de servir a mi equipo con comunicación asertiva y diseñar estrategias efectivas paraa el cumplimiento de los objetivos.
+- Soy Ingeniero Electrónico con profundización en Sistemas Embebidos, apasionado por la programación con conocimiento en Java, Spring Boot, Python, JavaFx, HTML, CSS, REACT, Angular, Javascript, TypeScript y SQL. Capaz de servir a mi equipo con comunicación asertiva y diseñar estrategias efectivas paraa el cumplimiento de los objetivos.
   
 - Actualmente he realizado proyectos Java de escritorio como por ejemplo un Sistema de Clientes para un Gym y un Sistema de Java de escritorio para un Parqueadero y Lavadero.
 
